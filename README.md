@@ -11,4 +11,4 @@ sudo ./uffd_test
 
 # References:
 * https://docs.kernel.org/admin-guide/mm/userfaultfd.html#write-protect-notifications
-* * https://github.com/adityamandaleeka/userfaultfd-wp-writetracking/blob/main/uffd.cpp
+* https://github.com/adityamandaleeka/userfaultfd-wp-writetracking/blob/main/uffd.cpp
